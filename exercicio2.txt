@@ -1,0 +1,34 @@
+1 abrir os olhos
+2 levantar da cama
+3 ir até o banheiro
+4 se a porta do banheiro estiver fechada
+    1 bater para verificar se está ocupado
+5 se estiver ocupado
+    1 aguarde até desocupar
+6 se não estiver ocupado
+    1 girar a maçaneta para abrir a porta
+    2 ir até a pia do banheiro
+    3 escovar os dentes
+    4 lavar o rosto
+7 ir até a cozinha
+8 preparar o café
+9 tomar o café
+10 voltar ao quarto
+11 vestir a roupa para ir ao trabalho
+12 ir até a porta de acesso à garagem
+13 se a porta estiver fechada
+    1 pegar a chave da porta
+    2 inserir a chave na porta
+    3 girar a chave
+    4 colocar a mão na maçaneta
+    5 girar a maçaneta
+    6 abrir a porta
+14 se a porta não estiver fechada
+        1 colocar a mão na maçaneta
+        2 girar a maçaneta
+        3 abrir a porta
+15 ir até o carro
+16 abrir a porta do carro
+17 colocar a chave na ignção para ligar o carro
+18 abrir a porta da garagem
+19 dirigir até o trabalho
